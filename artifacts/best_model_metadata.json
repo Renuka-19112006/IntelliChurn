@@ -1,0 +1,20 @@
+{
+    "model_name": "Logistic Regression",
+    "model_type": "sklearn",
+    "selection_metric": "Validation F1",
+    "validation_f1": 0.633112582781457,
+    "test_metrics": {
+        "Accuracy": 0.7381121362668559,
+        "Precision": 0.504302925989673,
+        "Recall": 0.7834224598930482,
+        "F1": 0.6136125654450262,
+        "ROC_AUC": 0.8412978893797307,
+        "TN": 747.0,
+        "FP": 288.0,
+        "FN": 81.0,
+        "TP": 293.0
+    },
+    "threshold": 0.5,
+    "training_records": 5634,
+    "testing_records": 1409
+}

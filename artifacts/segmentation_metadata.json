@@ -1,0 +1,6 @@
+{
+    "algorithm": "K-Means",
+    "number_of_clusters": 4,
+    "silhouette_score": 0.22956519655822072,
+    "total_customers": 7043
+}

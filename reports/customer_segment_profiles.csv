@@ -1,0 +1,5 @@
+Segment,Customer_Count,Churn_Rate_Percent,Average_tenure,Average_MonthlyCharges,Average_TotalCharges,Common_Contract,Common_InternetService,Common_PaymentMethod
+Segment 1,1976,13.06,58.6,89.35,5237.3,Two year,Fiber optic,Bank transfer (automatic)
+Segment 2,2621,40.02,15.68,66.51,1021.68,Month-to-month,DSL,Electronic check
+Segment 3,1526,7.4,30.55,21.08,665.22,Two year,No,Mailed check
+Segment 4,920,48.8,26.62,79.4,2199.37,Month-to-month,Fiber optic,Electronic check
